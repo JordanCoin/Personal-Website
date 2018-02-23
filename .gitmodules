@@ -1,0 +1,3 @@
+[submodule "hemingway"]
+	path = hemingway
+	url = ./themes/hemingway

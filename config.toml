@@ -20,10 +20,10 @@ fa_icon = "fa-github"
 url = "https://twitter.com/CoinJordan"
 fa_icon = "fa-twitter"
 
-[[params.social]]
-url = "https://firebasestorage.googleapis.com/v0/b/personal-website-80850.appspot.com/o/Resume11-5-18.pdf?alt=media&token=2e29e8ef-0794-4e83-bb0f-d9da92d95bd3"
+# [[params.social]]
+# url = "https://firebasestorage.googleapis.com/v0/b/personal-website-80850.appspot.com/o/Resume11-5-18.pdf?alt=media&token=2e29e8ef-0794-4e83-bb0f-d9da92d95bd3"
 # fa_icon = "resume-icon.png"
-title = "Resume"
+# title = "Resume"
 
 [[params.social]]
 url = "/index.xml"
